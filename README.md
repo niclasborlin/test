@@ -1,4 +1,4 @@
 This is a test README for the test repo.
-1
-2
-3
+
+Changed version to v0.2.
+
